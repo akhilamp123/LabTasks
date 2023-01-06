@@ -1,0 +1,144 @@
+* {
+    margin: 0;
+}
+
+.rhinosauraus {
+    height: 50px;
+    width: 100px;
+    background-color: rgb(74, 6, 6);
+    color: white;
+    border-radius: 10%;
+    position: relative;
+    margin-left: 500px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.yak {
+    height: 50px;
+    width: 100px;
+    background-color: rgb(74, 6, 6);
+    color: white;
+    border-radius: 10%;
+    position: relative;
+    margin-left: 250px;
+    margin-top: -25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.elephant {
+    height: 50px;
+    width: 100px;
+    background-color: rgb(74, 6, 6);
+    color: white;
+    border-radius: 10%;
+    position: absolute;
+    margin-left: 480px;
+    margin-top: -20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tiger {
+    height: 50px;
+    width: 70px;
+    background-color: rgb(74, 6, 6);
+    color: white;
+    border-radius: 10%;
+    position: absolute;
+    left: 140px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.fox {
+    height: 50px;
+    width: 70px;
+    background-color: rgb(74, 6, 6);
+    color: white;
+    border-radius: 10%;
+    position: absolute;
+    left: 300px;
+    top: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.iguana {
+    height: 50px;
+    width: 70px;
+    background-color: rgb(74, 6, 6);
+    color: white;
+    border-radius: 10%;
+    position: absolute;
+    left: 480px;
+    top: 170px;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+.Tiger2 {
+    height: 50px;
+    width: 100px;
+    background-color: rgb(74, 6, 6);
+    color: white;
+    border-radius: 10%;
+    position: absolute;
+    left: 560px;
+    top: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Leopard {
+    height: 50px;
+    width: 100px;
+    background-color: rgb(74, 6, 6);
+    color: white;
+    border-radius: 10%;
+    position: absolute;
+    left: 350px;
+    top: 230px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.giraffe {
+    height: 50px;
+    width: 100px;
+    background-color: rgb(74, 6, 6);
+    color: white;
+    border-radius: 10%;
+    position: absolute;
+    left: 200px;
+    top: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.lion {
+    height: 50px;
+    width: 70px;
+    background-color: rgb(74, 6, 6);
+    color: white;
+    border-radius: 10%;
+    position: absolute;
+    left: 100px;
+    top: 210px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
